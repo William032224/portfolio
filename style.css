@@ -25,6 +25,12 @@ header {
     margin: 0;
 }
 
+#achievements ul,
+#projects ul {
+    line-height: 1.8;
+    margin-left: 20px;
+}
+
 button {
 	padding: 10px 20px;
 	margin-top: 10px;
